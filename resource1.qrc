@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>elements_war_aircraft/images/again.png</file>
+        <file>elements_war_aircraft/images/background.png</file>
+        <file>elements_war_aircraft/images/bomb.png</file>
+        <file>elements_war_aircraft/images/bomb_supply.png</file>
+        <file>elements_war_aircraft/images/bullet_supply.png</file>
+        <file>elements_war_aircraft/images/bullet1.png</file>
+        <file>elements_war_aircraft/images/bullet2.png</file>
+        <file>elements_war_aircraft/images/enemy1.png</file>
+        <file>elements_war_aircraft/images/enemy1_down1.png</file>
+        <file>elements_war_aircraft/images/enemy1_down2.png</file>
+        <file>elements_war_aircraft/images/enemy1_down3.png</file>
+        <file>elements_war_aircraft/images/enemy1_down4.png</file>
+        <file>elements_war_aircraft/images/enemy2.png</file>
+        <file>elements_war_aircraft/images/enemy2_down1.png</file>
+        <file>elements_war_aircraft/images/enemy2_down2.png</file>
+        <file>elements_war_aircraft/images/enemy2_down3.png</file>
+        <file>elements_war_aircraft/images/enemy2_down4.png</file>
+        <file>elements_war_aircraft/images/enemy2_hit.png</file>
+        <file>elements_war_aircraft/images/enemy3_down1.png</file>
+        <file>elements_war_aircraft/images/enemy3_down2.png</file>
+        <file>elements_war_aircraft/images/enemy3_down3.png</file>
+        <file>elements_war_aircraft/images/enemy3_down4.png</file>
+        <file>elements_war_aircraft/images/enemy3_down5.png</file>
+        <file>elements_war_aircraft/images/enemy3_down6.png</file>
+        <file>elements_war_aircraft/images/enemy3_hit.png</file>
+        <file>elements_war_aircraft/images/enemy3_n1.png</file>
+        <file>elements_war_aircraft/images/enemy3_n2.png</file>
+        <file>elements_war_aircraft/images/gameover.png</file>
+        <file>elements_war_aircraft/images/life.png</file>
+        <file>elements_war_aircraft/images/me_destroy_1.png</file>
+        <file>elements_war_aircraft/images/me_destroy_2.png</file>
+        <file>elements_war_aircraft/images/me_destroy_3.png</file>
+        <file>elements_war_aircraft/images/me_destroy_4.png</file>
+        <file>elements_war_aircraft/images/me1.png</file>
+        <file>elements_war_aircraft/images/me2.png</file>
+        <file>elements_war_aircraft/images/pause_nor.png</file>
+        <file>elements_war_aircraft/images/pause_pressed.png</file>
+        <file>elements_war_aircraft/images/resume_nor.png</file>
+        <file>elements_war_aircraft/images/resume_pressed.png</file>
+    </qresource>
+</RCC>
